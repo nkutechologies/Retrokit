@@ -1,0 +1,44 @@
+name: retrokit
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter_blue: 0.8.0
+  getwidget: 3.0.1
+  flutter_reactive_ble: ^5.0.3
+  nearby_connections: ^3.2.0
+  bluetooth_enable_fork: 0.1.6
+  firebase_core: 2.7.1
+  get_storage: 2.1.1
+  flutter_launcher_icons: 0.12.0
+  url_launcher: ^6.1.10
+  firebase_auth: ^4.2.10
+  cloud_firestore: 4.4.4
+  fl_chart: 0.61.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter_icons: 
+  image_path: assets/images/appicon.jpg
+  android: true
+  ios: true
+
+flutter: 
+  assets: 
+    - assets/images/
+  fonts: 
+    - family: BebasNeue
+      fonts: 
+        - asset: assets/Fonts/BebasNeue-Regular.ttf
+  uses-material-design: true
+

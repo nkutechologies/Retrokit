@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1037687317888",
+    "project_id": "retrokit-211b2",
+    "storage_bucket": "retrokit-211b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037687317888:android:c5d4f5086522ea406b0d65",
+        "android_client_info": {
+          "package_name": "sparkai.retrokit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037687317888-dguahel7avufs9lpj7mkb8bc7fhsdibv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKs-rqLxW14QuE577bJWeKRjTCMt2RS5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037687317888-dguahel7avufs9lpj7mkb8bc7fhsdibv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037687317888-5bkspv8kl784c8kfvenr2o3kko4i3sgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sparkai.retrokit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
